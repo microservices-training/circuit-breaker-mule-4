@@ -62,8 +62,6 @@ All values ​​are self-explanatory except for errorCount. This value is a cou
 Please refer to the following sequence diagram for an example:
 ![](./docs/images/sequence.png)
 
-Please refer to the following states diagram for an example:
-![](./docs/images/states.png)
 
 #### Development
 
