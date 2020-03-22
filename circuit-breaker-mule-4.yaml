@@ -1,6 +1,6 @@
 id: circuit-breaker-mule-4
 name: circuit-breaker-mule-4
-description: A custom policy to implement a lightweight Circuit Breaker pattern
+description: A custom policy to implement a lightweight Circuit Breaker pattern PK
 category: Custom
 type: custom
 resourceLevelSupported: true
